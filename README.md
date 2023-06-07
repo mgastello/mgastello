@@ -3,7 +3,6 @@
 <p align="center">- 🔭 I’m currently working on a full stack target.com clone named Arrow</p>
 <p align="center">- 🌱 I’m currently learning Python</p>
 <p align="center">- 💬 Ask me about cars, soccer, and video games</p>
-<p align="center">- 📫 How to reach me:</p>[linkedin](https://www.linkedin.com/in/michael-gastello)
  
 <!--
 **mgastello/mgastello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
